@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Kevin George </h1>
+<h2> Azure pipelines demo</h2>
+<h2> I'm making a change to the code to show how the pipline can trigger a new build and deployment</h2>
